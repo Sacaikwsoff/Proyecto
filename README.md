@@ -1,3 +1,5 @@
+Autor: Palacios Pérez Julio César
+
 Bienvenido al instructivo de usuario
 
 Al ejecutar el programa le aparecerá un menu, dicho menu tendría estas opciones: 
